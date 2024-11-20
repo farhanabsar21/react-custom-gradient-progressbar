@@ -4,7 +4,7 @@ A highly customizable, accessible Gradient Progress Bar component for React appl
 
 ## Features
 
-- 🌈 Customizable Gradient gradient effect
+- 🌈 Customizable Gradient effect
 - 🎨 Custom color schemes support
 - ⌨️ Keyboard accessibility
 - 📱 Touch device support
