@@ -1,4 +1,8 @@
 import { CSSProperties } from 'react';
+export type DragState = {
+    isDragging: boolean;
+    isTouching: boolean;
+};
 export interface ColorConfig {
     colors: string[];
     angle?: number;
